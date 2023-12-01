@@ -1,7 +1,7 @@
 const Home = () => {
   return (
     <div>
-      Hello world! 123
+      Hello world! gya
     </div>
   )
 }
