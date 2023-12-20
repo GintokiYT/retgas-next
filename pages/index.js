@@ -1,7 +1,9 @@
+import Header from './components/Header';
+ 
 const Home = () => {
   return (
     <div>
-      Hello world! 123
+      <Header />
     </div>
   )
 }
